@@ -17,7 +17,7 @@
 ### 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,git,github,docker,linux,aws,azure,java,spring,cs,dotnet,mysql,sqlserver&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,git,github,docker,linux,java,spring,mysql,sqlserver&theme=dark" />
 </p>
 
 ---
